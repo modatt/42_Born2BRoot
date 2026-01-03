@@ -587,7 +587,7 @@ This project is created for educational purposes as part of the 42 curriculum. F
 
 ## 👤 Author
 
-Created with 💻 by a 42 student
+Created with modat by a 42 student
 
 **Project Completion Date:** January 2026
 
